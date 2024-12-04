@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 ghcr.io/lagrangedev/lagrange.onebot:edge
-
+cnrancher/autok3s:v0.9.3
