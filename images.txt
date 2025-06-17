@@ -8,3 +8,4 @@ ghcr.io/lagrangedev/lagrange.onebot:edge
 cnrancher/autok3s:v0.9.3
 ghcr.io/lagrangedev/lagrange.onebot:sha-22d6b79
 ghcr.io/wg-easy/wg-easy
+messense/aliyundrive-webdav
