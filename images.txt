@@ -6,4 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 mysql
 jenkins/jenkins:alpine-jdk17
-prometheus:2-24.04
+prometheus:latest
